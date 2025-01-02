@@ -1,9 +1,6 @@
 # Cloud Security Engineer
 
-# Linux Administration 
--
-
-# Secure Cloud Environment
+# Implementing Security Best Practices in Cloud Environment
 - Securing S3 Buckets
 - Setting Up IAM Policies
 - Security Groups for EC2
@@ -13,6 +10,9 @@
 - Encrypting EBS Volume
 - AWS Config for Compliance
 - Simulate DDoS with AWS Shield
+
+# Linux Administration 
+-
   
 # Analyzing Packet Captures with WireShark
 -
