@@ -21,6 +21,7 @@
 - Log Analysis
 - Firewall Setup
 - Package Management
+- Encrypting and Hashing Files 
   
 # Analyzing Packet Captures with WireShark
 - HTTP vs HTTPS Analysis
