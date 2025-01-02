@@ -12,13 +12,32 @@
 - Simulate DDoS with AWS Shield
 
 # Linux Administration 
--
+- File Management with Bash Scripts (use tar, zip, gzip, bzip)
+- System Monitoring Script
+- User & Permission Management
+- Cron Job for Automation
+- Basic Web Server
+- SSH Hardening
+- Log Analysis
+- Firewall Setup
+- Package Management
   
 # Analyzing Packet Captures with WireShark
--
+- HTTP vs HTTPS Analysis
+- DNS Query Analysis
+- TCP Three-Way Handshake
+- FTP Traffic Analysis
+- ARP Requests & Responses
+- ICMP Traffic Analysis (Ping)
+- Analyzing Malicious Traffic
 
 # Secure Configuration on Home Wireless Router
--
+- Create a Guest Network
+- Reduce SSID Visibility
+- Set Up a Firewall
+- Configure MAC Address Filtering
+- Disable Remote Management
+- Set Up VLANs
 
 # Vulnerability Scanning Using STIGs & SCAP
 -
