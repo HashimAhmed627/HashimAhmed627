@@ -1,6 +1,9 @@
-# Cloud Security Engineer
-
-# Implementing Security Best Practices in Cloud Environment
+# Hi there, I'm Hashim 
+# 
+- Recent graduate from San Diego State University with a B.S. in Management Information Systems
+- Enjoy working on cloud/cybersecurity projects (please feel free to give any feedback)
+- Currently pursuing AWS Sysops Administrator Associate & AWS Security Specialty 
+# Implementing Security Best Practices in Cloudd Environment
 - Securing S3 Buckets
 - Setting Up IAM Policies
 - Security Groups for EC2
@@ -23,7 +26,7 @@
 - Package Management
 - Encrypting and Hashing Files 
   
-# Analyzing Packet Captures with WireShark
+# Analyzing Packet Captures with WireShark (Incident Response)
 - HTTP vs HTTPS Analysis
 - DNS Query Analysis
 - TCP Three-Way Handshake
