@@ -1,7 +1,7 @@
 # Hi there, I'm Hashim Ahmed 👋🏽
 # 
 - 🎓 I'm a recent graduate from San Diego State University with a B.S. in Management Information Systems
-- 🔒 I enjoy working on cloud/cybersecurity projects (please feel free to give any feedback)
+- 🔒 I enjoy working on cloud and cybersecurity projects and I welcome any feedback you may have. 
 - ☁️ I'm currently pursuing the AWS Sysops Administrator Associate & AWS Security Specialty certifications 
 ## Implementing Security Best Practices in Cloud Environment
 - Securing S3 Buckets (*coming soon*)
