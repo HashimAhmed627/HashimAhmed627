@@ -3,7 +3,7 @@
 - 🎓 I'm a recent graduate from San Diego State University with a B.S. in Management Information Systems
 - 🔒 I enjoy working on cloud/cybersecurity projects (please feel free to give any feedback)
 - ☁️ I'm currently pursuing the AWS Sysops Administrator Associate & AWS Security Specialty certifications 
-## Implementing Security Best Practices in Cloudd Environment
+## Implementing Security Best Practices in Cloud Environment
 - Securing S3 Buckets (*coming soon*)
 - Setting Up IAM Policies (*coming soon*)
 - Security Groups for EC2 (*coming soon*)
