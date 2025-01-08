@@ -4,29 +4,19 @@
 - 🔒 I enjoy working on cloud and cybersecurity projects and I welcome any feedback you may have. 
 - ☁️ I'm currently pursuing the AWS Sysops Administrator Associate & AWS Security Specialty certifications 
 ## Implementing Security Best Practices in Cloud Environment
-- Securing S3 Buckets (*coming soon*)
-- Setting Up IAM Policies (*coming soon*)
-- Security Groups for EC2 (*coming soon*)
-- CloudTrail and Log Analysis (*coming soon*)
-- Setting Up & Securing VPC (*coming soon*)
-- GuardDuty for Threat Protection (*coming soon*)
-- Encrypting EBS Volume (*coming soon*)
-- AWS Config for Compliance (*coming soon*)
-- Simulate DDoS with AWS Shield (*coming soon*)
+- [Securing S3 Buckets](https://github.com/HashimAhmed627/Securing-S3-Buckets/blob/main/README.md)
+- [Setting Up IAM Policies](https://github.com/HashimAhmed627/Setting_Up_IAM_Policies/blob/main/README.md)
+- [Security Groups for EC2](https://github.com/HashimAhmed627/Security_Groups_For_EC2/blob/main/README.md)
+- [Setting Up & Securing VPC](https://github.com/HashimAhmed627/Setting-Up-and-Securing-VPC/blob/main/README.md)
+- [Encrypting EBS Volume](https://github.com/HashimAhmed627/Encrypting_EBS_Volume/blob/main/README.md)
 
 ## Linux Administration 
 - [User & Permission Management](https://github.com/HashimAhmed627/Linux-User-and-Permission-Management)
 - [Symmetric Encryption and Hashing](https://github.com/HashimAhmed627/Symmetric_Encryption_and_Hashing)
 - [Asymmetric Encryption](https://github.com/HashimAhmed627/Asymmetric_Encryption/blob/main/README.md)
-- Cron Job for Automation (*coming soon*)
-- SSH Hardening (*coming soon*)
-- Package Management (*coming soon*)
-- Firewall Setup (*coming soon*)
-- File Management with Bash Scripts (use tar, zip, gzip, bzip) (*coming soon*)
-- Log Analysis (*coming soon*)
-- System Monitoring Script (*coming soon*)
-- Basic Web Server (*coming soon*)
-    
+- [Cron Job for Automation](https://github.com/HashimAhmed627/Cron_Job_For_Automation/blob/main/README.md)
+- [SSH Hardening](https://github.com/HashimAhmed627/SSH_Hardening/blob/main/README.md)
+
 ## Analyzing Packet Captures with WireShark (Incident Response)
 - HTTP vs HTTPS Analysis (*coming soon*)
 - DNS Query Analysis (*coming soon*)
