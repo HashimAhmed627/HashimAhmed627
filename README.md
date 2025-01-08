@@ -15,17 +15,17 @@
 - Simulate DDoS with AWS Shield (*coming soon*)
 
 ## Linux Administration 
+- [User & Permission Management](https://github.com/HashimAhmed627/Linux-User-and-Permission-Management)
+- [Symmetric Encryption and Hashing](https://github.com/HashimAhmed627/Symmetric_Encryption_and_Hashing)
+- [Asymmetric Encryption](https://github.com/HashimAhmed627/Asymmetric_Encryption/blob/main/README.md)
 - File Management with Bash Scripts (use tar, zip, gzip, bzip) (*coming soon*)
 - System Monitoring Script (*coming soon*)
-- [User & Permission Management](https://github.com/HashimAhmed627/Linux-User-and-Permission-Management)
 - Cron Job for Automation (*coming soon*)
 - Basic Web Server (*coming soon*)
 - SSH Hardening (*coming soon*)
 - Log Analysis (*coming soon*)
 - Firewall Setup (*coming soon*)
 - Package Management (*coming soon*)
-- [Symmetric Encryption and Hashing](https://github.com/HashimAhmed627/Symmetric_Encryption_and_Hashing)
-- [Asymmetric Encryption](https://github.com/HashimAhmed627/Asymmetric_Encryption/blob/main/README.md)
   
 ## Analyzing Packet Captures with WireShark (Incident Response)
 - HTTP vs HTTPS Analysis (*coming soon*)
