@@ -24,7 +24,7 @@
 - Log Analysis (*coming soon*)
 - Firewall Setup (*coming soon*)
 - Package Management (*coming soon*)
-- [Symmetric Encryption and Hashing](https://github.com/HashimAhmed627/Symmetric_Encryption_and_Hashing/edit/main/README.md)
+- [Symmetric Encryption and Hashing](https://github.com/HashimAhmed627/Symmetric_Encryption_and_Hashing)
 - [Asymmetric Encryption](https://github.com/HashimAhmed627/Asymmetric_Encryption/blob/main/README.md)
   
 ## Analyzing Packet Captures with WireShark (Incident Response)
